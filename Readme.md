@@ -4,9 +4,11 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Bundles](https://img.shields.io/badge/bundles-4-orange)
 
-**Pre‑chunked, pre‑vectorized dataset bundles of landmark Indian judgments, statutes, and legal frameworks.**  
+**Pre-chunked, pre-vectorized dataset bundles of landmark Indian judgments, statutes, and legal frameworks.**  
 Built to extend the knowledge base of the [Legal-Cortex Workstation](https://github.com/Garvit-821/Private-Legal-Research-Agent) completely offline.
+
 ---
+
 
 ## 📚 Table of Contents
 
