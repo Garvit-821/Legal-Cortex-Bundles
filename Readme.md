@@ -10,7 +10,7 @@ Built to extend the knowledge base of the [Legal-Cortex Workstation](https://git
 ---
 
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [ Why This Exists](#-why-this-exists)
 - [ Bundle Anatomy](#-bundle-anatomy)
