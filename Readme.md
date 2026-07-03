@@ -208,6 +208,9 @@ The data distribution framework (scripts, manifests, indexing logic) is released
 The underlying judicial materials and statutory texts are compiled from **public legal domains** and are used for non‑commercial research, training, and professional assistance within fair‑use / fair‑dealing educational parameters. No copyright is claimed over the original legal documents.
 
 ---
+## Contributors
+- **[RUDRA-PRATAP-SINGH01](https://github.com/RUDRA-PRATAP-SINGH01)** 
+---
 
 ##  Acknowledgments
 
